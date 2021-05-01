@@ -1,4 +1,0 @@
-winfield
-hello
-world
-test
